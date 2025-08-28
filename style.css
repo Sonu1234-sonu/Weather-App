@@ -1,0 +1,19 @@
+#weather{
+    display: grid;
+    grid-template-columns: 150px auto;
+}
+#data{
+    padding: 10px;
+    margin-left: 400px;
+   
+}
+button{
+    margin-left: 430px;
+    margin-top: 20px;
+    padding: 10px;
+}
+
+input{
+    margin-left: 400px;
+    padding: 10px;
+}
